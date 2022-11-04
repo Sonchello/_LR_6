@@ -13,6 +13,13 @@
   
  При помощи команды git pull продтягиваются изменения в локальный репозиторий(Рис.4)
  ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/4.png)
-
+ 
+ Истории операций для веток просматриваются при помощи команы git log(рис.5,рис.6)
+ ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/5.png)
+  ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/7.png)
+ 
+ Переключение веток с помощью git checkout (Рис.7)
+  ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/6.png)
+  
 
 
