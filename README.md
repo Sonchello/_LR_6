@@ -11,6 +11,8 @@
   Добавляем файл через интерфейс GitHub (Рис.3)
   ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/3.png)
   
+ При помощи команды git pull продтягиваются изменения в локальный репозиторий(Рис.4)
+ ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/4.png)
 
 
 
