@@ -12,15 +12,22 @@
   ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/3.png)
   
  При помощи команды git pull продтягиваются изменения в локальный репозиторий(Рис.4)
- ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/4.png)
+ ![рис.4](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/4.png)
  
  Истории операций для веток просматриваются при помощи команы git log(рис.5,рис.6)
- ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/5.png)
-  ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/6.png)
+ ![рис.5](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/5.png)
+  ![рис.6](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/6.png)
  
  Переключение веток с помощью git checkout (Рис.7)
  
-  ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/10.png)
+  ![рис.7](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/10.png)
+ 
+ Просмотр последних изменений осуществляется посредством команды git show. Для ветки master (Рис.8) и для branch1  (Рис.9)
+ ![рис.8](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/7.png)
+  ![рис.9](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/8.png)
+   ![рис.10](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/9.png)
+ 
+ 
   
 
 
