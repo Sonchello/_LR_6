@@ -46,25 +46,22 @@
   ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/16.png)
  
  Внесение изменений и их фиксация происходит при помощи изменений в файлах вручную и команд git add и git commit. Первый коммит (Рис.15), второй  (Рис.16)
-   ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/17.png)
-    ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/18.png)
+ 
+   ![рис.17](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/17.png)
+    ![рис.18](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/18.png)
  
  Откат изменений второго коммита производится при помощи команды git reset(Рис.17)
-  ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/19.png)
+  ![рис.19](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/19.png)
  
  Создание новой ветки для отчета происходит при помощи команды git checkout(рис.18)
- ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/20.png)
+ ![рис.20](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/20.png)
  
  Файлы для отчета размещены в папке "for README", которая добавлена в папку "_LR_6". Добавление папки с картинками (Рис.19)
-  ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/21.png)
+  ![рис.21](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/21.png)
+ 
+ Получение истории операций в форматированном виде производится посредством команды git log(Hис.20)
+  ![рис.22](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/22.png)
  
  
  
  
- 
- 
- 
- 
-  
-
-
