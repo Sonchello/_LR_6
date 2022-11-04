@@ -14,7 +14,7 @@
  При помощи команды git pull продтягиваются изменения в локальный репозиторий(Рис.4)
  ![рис.4](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/4.png)
  
- Истории операций для веток просматриваются при помощи команды git log(рис.5,рис.6)
+ Истории операций для веток просматриваются при помощи команды git log(Рис.5,Рис.6)
  ![рис.5](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/5.png)
   ![рис.6](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/6.png)
  
