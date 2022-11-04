@@ -34,7 +34,8 @@
  
  ![рис.12](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/12.png)
  
- Для решения вручную изменяется содержимое файла. Затем применяется команда git add(Рис.11) и git commit(Рис.12).
+ Для решения вручную изменяется содержимое файла. Затем применяется команда git add(Рис.11) и git commit(Рис.12)
+ 
  ![рис.13](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/13.png)
  
   ![рис.14](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/14.png)
