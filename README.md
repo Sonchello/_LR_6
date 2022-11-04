@@ -30,7 +30,7 @@
 Выполнение слияния в ветку master происходит с помощью команды git merge <branch> (Рис.10)
   ![рис.11](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/11.png)
  
- Происхдит конфликт
+ Происходит конфликт
  
  ![рис.12](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/12.png)
  
