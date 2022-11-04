@@ -19,6 +19,7 @@
   ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/6.png)
  
  Переключение веток с помощью git checkout (Рис.7)
+ 
   ![рис.3](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/10.png)
   
 
