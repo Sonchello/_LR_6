@@ -27,21 +27,41 @@
   ![рис.9](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/8.png)
    ![рис.10](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/9.png)
  
-Выполняем слияние в ветку master командой git merge <branch> (Рис.10)
+Выполнение слияния в ветку master происходит с помощью команды git merge <branch> (Рис.10)
   ![рис.11](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/11.png)
  
  Происхдит конфликт
+ 
  ![рис.12](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/12.png)
  
  Для решения вручную изменяется содержимое файла. Затем применяется команда git add(Рис.11) и git commit(Рис.12).
  ![рис.13](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/13.png)
+ 
   ![рис.14](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/14.png)
  
  Тогда команда git merge сработает и объединит все в ветку master(рис.13).
   ![рис.15](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/15.png)
  
- После слияния удаляется ветка branch1 командой git branch -d branch1
+ После слияния удаляется ветка branch1 командой git branch -d branch1 (Рис.14)
   ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/16.png)
+ 
+ Внесение изменений и их фиксация происходит при помощи изменений в файлах вручную и команд git add и git commit. Первый коммит (Рис.15), второй  (Рис.16)
+   ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/17.png)
+    ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/18.png)
+ 
+ Откат изменений второго коммита производится при помощи команды git reset(Рис.17)
+  ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/19.png)
+ 
+ Создание новой ветки для отчета происходит при помощи команды git checkout(рис.18)
+ ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/20.png)
+ 
+ Файлы для отчета размещены в папке "for README", которая добавлена в папку "_LR_6". Добавление папки с картинками (Рис.19)
+  ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/21.png)
+ 
+ 
+ 
+ 
+ 
  
  
  
