@@ -27,6 +27,23 @@
   ![рис.9](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/8.png)
    ![рис.10](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/9.png)
  
+Выполняем слияние в ветку master командой git merge <branch> (Рис.10)
+  ![рис.11](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/11.png)
+ 
+ Происхдит конфликт
+ ![рис.12](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/12.png)
+ 
+ Для решения вручную изменяется содержимое файла. Затем применяется команда git add(Рис.11) и git commit(Рис.12).
+ ![рис.13](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/13.png)
+  ![рис.14](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/14.png)
+ 
+ Тогда команда git merge сработает и объединит все в ветку master(рис.13).
+  ![рис.15](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/15.png)
+ 
+ После слияния удаляется ветка branch1 командой git branch -d branch1
+  ![рис.16](https://github.com/Sonchello/_LR_6/blob/otchet/otchet/16.png)
+ 
+ 
  
   
 
